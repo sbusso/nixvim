@@ -40,7 +40,7 @@ _: {
     ./plugins/lsp/fidget.nix
 
     # Git
-    ./plugins/git/lazygit.nix
+    ./plugins/git/git.nix
     ./plugins/git/gitsigns.nix
 
     # Utils
