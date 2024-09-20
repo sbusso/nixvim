@@ -10,7 +10,7 @@
   keymaps = [
     {
       mode = "n";
-      key = "<leader>gg";
+      key = "<leader>gf";
       action = "<cmd>Git<CR>";
       options = {
         desc = "fuGitive (root dir)";
